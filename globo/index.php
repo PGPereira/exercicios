@@ -17,8 +17,13 @@ and open the template in the editor.
                 <p class="text-center">Nem parece</p>
             </div>
             <div class="row">
-                <div class="col-sm-12">
-                    
+                <div class="col-xs-4">
+                    <image src="../images/13.jpg"/>
+                </div>
+                <div class="col-xs-8">
+                    <p> Crime ocorre </p>
+                    <p> Nada acontece </p>
+                    <p> Feijoada </p>
                 </div>
             </div>
         </div>
