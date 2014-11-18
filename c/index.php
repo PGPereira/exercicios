@@ -10,12 +10,6 @@ and open the template in the editor.
     </head>
     <body>
         <?php include './menu.php'; ?>
-        <div class="row">
-            <div class="col-xs-12">
-                <div class="jumbotron">
-                    <h1 class="text-center">Curso de C</h1>
-                </div>
-            </div>
-        </div>
+        <?php include '../c/footer.php';?>
     </body>
 </html>
