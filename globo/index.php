@@ -8,7 +8,7 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <link rel="stylesheet" href="../css/bootstrap.css"/>
-        <title></title>
+        <title>4chão</title>
     </head>
     <body>
         <div class="container container-fluid">
